@@ -20,7 +20,7 @@ body {
   background-image: url("./images/cold-bg2.jpg");
   background-size: cover;
   background-position: bottom;
-  transition: 0.4s ease-out;
+  transition: 0.7s ease-out;
 }
 
 .App.warm {
@@ -60,7 +60,7 @@ main {
   color: #313131;
   font-size: 15px;
 
-  transition: 0.4s ease;
+  transition: 0.7s ease;
 }
 
 .search-box .search-bar:focus {
