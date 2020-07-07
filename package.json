@@ -1,6 +1,6 @@
 {
   "name": "cloudy",
-  "version": "1.1.0",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -30,6 +30,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://github.com/sushilburagute/cloudy"
+  }
 }
